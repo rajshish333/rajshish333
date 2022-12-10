@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajshish Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img src="" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshish333&label=Profile%20views&color=0e75b6&style=flat" alt="rajshish333" /> </p>
 
@@ -27,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajshish333&show_icons=true&locale=en" alt="rajshish333" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajshish333&" alt="rajshish333" /></p>
+
